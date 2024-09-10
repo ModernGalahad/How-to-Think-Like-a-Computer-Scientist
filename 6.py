@@ -1,0 +1,1 @@
+#Done in shell: had to mess around with the modulus operator
