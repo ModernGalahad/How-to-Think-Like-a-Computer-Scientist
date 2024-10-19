@@ -1,0 +1,1 @@
+#Score: 9/10. I did not think that <turtlename>.speed(0) would result in an instant carrying out of the following command. 
